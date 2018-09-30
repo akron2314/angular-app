@@ -1,0 +1,9 @@
+.board {
+    background: cyan;
+    border-width: 2px;
+    border: solid;
+    border-color: black;
+}
+
+.score {
+}
